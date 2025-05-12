@@ -1,1 +1,9 @@
 Write some lines in it. 
+!git push https://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@github.com/Chimgee100/Homework.git
+To https://github.com/Chimgee100/Homework.git
+ ! [rejected]        main -> main (non-fast-forward)
+error: failed to push some refs to 'https://github.com/Chimgee100/Homework.git'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. Integrate the remote changes (e.g.
+hint: 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
